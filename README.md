@@ -1,0 +1,2 @@
+# Hadoop-MapReduce
+I have utilized the MapReduce framework to perform large-scale data processing and distributed computations. By leveraging the parallel processing capabilities of MapReduce, I have efficiently tackled complex data-intensive tasks, such as data cleansing, aggregation, transformation, and extracting valuable insights from vast amounts of data. MapReduce has allowed me to handle big data challenges effectively, ensuring scalability, fault tolerance, and high-performance processing.
